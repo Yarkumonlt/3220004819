@@ -1,0 +1,18 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="com.Marine in 3220004819" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+    <module name="3220004819" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="com.Marine.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <option name="PACKAGE_NAME" value="com.Marine" />
+    <option name="MAIN_CLASS_NAME" value="" />
+    <option name="METHOD_NAME" value="" />
+    <option name="TEST_OBJECT" value="package" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
